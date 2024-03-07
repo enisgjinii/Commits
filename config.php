@@ -7,9 +7,9 @@ define('DB_NAME', 'github');
 define('DB_USER_TBL', 'users');
 
 // GitHub API configuration 
-define('CLIENT_ID', 'c4d2e61ac2f3663ed791');
-define('CLIENT_SECRET', '131cf7a7fb3d8885b720d73a7ef2d2b0db6b51e2');
-define('REDIRECT_URL', 'http://localhost/Commits/index.php');
+define('CLIENT_ID', 'YOUR_CLIENT_ID');
+define('CLIENT_SECRET', 'YOUR_CLIENT_SECRET');
+define('REDIRECT_URL', 'YOUR_REDIRECT_URL');
 
 // Start session 
 if (!session_id()) {
