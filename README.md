@@ -56,5 +56,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Enis Gjini - [@_enisgjini](https://twitter.com/_enisgjini) - egjini17@gmail.com
 
 Project Link: [https://github.com/enisgjinii/Commits](https://github.com/enisgjinii/Commits)
-
-```
